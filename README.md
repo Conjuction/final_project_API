@@ -1,5 +1,7 @@
 # Дипломный проект по тестированию API для [reqres.in](https://reqres.in/)
 
+## <img width="4%" title="Reqres" src="media/logo/reqres_logo.png">
+
 ## :open_book: Содержание
 
 - [Технологии и инструменты](#gear-технологии-и-инструменты)
