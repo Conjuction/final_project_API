@@ -15,10 +15,10 @@ import static specs.Specs.*;
 public class ApiTests {
     @Test
     @Owner("Sukhinin Dmitrii")
-    @DisplayName("Checking user name after 2000 year")
+    @DisplayName("Checking main color after 2000 year")
     void checkUserWithGroovyTest() {
 
-        step("Checking user name after 2000 year", () -> {
+        step("Checking main color after 2000 year", () -> {
             given(baseRequestSpec)
                     .when()
                     .get("/unknown")
