@@ -62,7 +62,7 @@ gradle clean test
 </p>
 
 <p align="center">
-  <img src="media/screen/jenkins_behaviors.png" alt="allure-report_1" width="900">
+  <img src="media/screen/jenkins_behaviors1.png" alt="allure-report_1" width="900">
 </p>
 
 ## <img width="4%" title="Allure TestOPS" src="media/logo/Allure_TO.svg"> Интеграция с [Allure TestOps](https://allure.autotests.cloud/launch/22031)
